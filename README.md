@@ -1,6 +1,3 @@
-# lab-cti-threat-hunting
-
-
 # Laboratório de CTI e Threat Hunting
 
 ## Sobre o projeto
