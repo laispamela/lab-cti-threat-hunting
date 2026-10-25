@@ -21,9 +21,6 @@ O laboratório será desenvolvido por etapas, registrando configurações, coman
 
 - Virtualização: VMware Workstation
 - Sistema operacional da VM: Ubuntu — versão e edição a confirmar
-- Computador hospedeiro: Windows
-- Memória RAM do computador: 8 GB
-- Espaço livre em disco no início do projeto: aproximadamente 192 GB
 - SIEM planejado: Wazuh, condicionado à disponibilidade de recursos
 
 ## Etapas do projeto
